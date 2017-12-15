@@ -1,0 +1,145 @@
+<html>
+	<body>
+<svg id="GoTransitSystemMap" data-name="GoMap" viewBox="0 0 1887 538" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" >
+	<defs>
+		<style>
+			#user {
+				fill: #000;
+			}
+			.\35 021d6db-95c5-4d2b-8071-3dca818caa8d,.\37 5ee09b8-e8c8-452a-a7d6-48af5f225acc,.\37 6bf4b53-b662-4445-ac7f-43cfddef43f4,.\37 80e063a-5981-4989-b7e6-8e4df8057591,.\38 318f5ef-7aaa-4474-9d58-652c468e0f76,.\38 7b4fb3b-09b8-47db-9759-6e3e74ccf7c8,.d1bbe840-4428-44a6-91d7-d7ac72216948 {
+				fill: none;
+			}
+			.\37 6bf4b53-b662-4445-ac7f-43cfddef43f4 {
+				stroke: #f68025;
+			}
+			.\35 021d6db-95c5-4d2b-8071-3dca818caa8d,.\37 5ee09b8-e8c8-452a-a7d6-48af5f225acc,.\37 6bf4b53-b662-4445-ac7f-43cfddef43f4,.\37 80e063a-5981-4989-b7e6-8e4df8057591,.\38 1126f3f-5e98-48a1-baee-c3587a1af9fa,.\38 318f5ef-7aaa-4474-9d58-652c468e0f76,.\38 7b4fb3b-09b8-47db-9759-6e3e74ccf7c8,.d1bbe840-4428-44a6-91d7-d7ac72216948,.ed5679fb-2583-43bc-89c9-c0fbecb1407e {
+				stroke-linecap: round;
+				stroke-linejoin: round;
+			}
+			.\35 021d6db-95c5-4d2b-8071-3dca818caa8d,.\37 5ee09b8-e8c8-452a-a7d6-48af5f225acc,.\37 6bf4b53-b662-4445-ac7f-43cfddef43f4,.\37 80e063a-5981-4989-b7e6-8e4df8057591,.\38 318f5ef-7aaa-4474-9d58-652c468e0f76,.\38 7b4fb3b-09b8-47db-9759-6e3e74ccf7c8, .d1bbe840-4428-44a6-91d7-d7ac72216948 {
+				stroke-width: 12px;
+			}
+			.\38 1126f3f-5e98-48a1-baee-c3587a1af9fa,.ed5679fb-2583-43bc-89c9-c0fbecb1407e {
+				fill: #fff;
+				stroke: #000;
+			}
+			.\38 1126f3f-5e98-48a1-baee-c3587a1af9fa {
+				stroke-width: 2px;
+			}
+			.\38 318f5ef-7aaa-4474-9d58-652c468e0f76{
+				stroke: #98002e;
+			}
+			.\37 5ee09b8-e8c8-452a-a7d6-48af5f225acc {
+				stroke: #00853e;
+			}
+			.\37 80e063a-5981-4989-b7e6-8e4df8057591 {
+				stroke: #003668;
+			}
+			.\35 021d6db-95c5-4d2b-8071-3dca818caa8d {
+				stroke: #009bc9;
+			}
+			.\38 7b4fb3b-09b8-47db-9759-6e3e74ccf7c8 {
+				stroke: #7a4500;
+			}
+			.d1bbe840-4428-44a6-91d7-d7ac72216948 {
+				stroke: #ee2d24;
+			}
+			.ed5679fb-2583-43bc-89c9-c0fbecb1407e {
+				stroke-width: 4px;
+			}
+		</style>
+	</defs>
+	<title>GoMap</title>
+	<g id="9f8cf064-5a07-4f5e-a21e-75c9aaa9f072" data-name="LakeshoreWest">
+		<polyline class="76bf4b53-b662-4445-ac7f-43cfddef43f4" points="1116 517 970 517 909 456 507 456 420 369 240 369"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="240" cy="369" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="337" cy="369" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="420" cy="369" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="463" cy="412" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="507" cy="456" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="607" cy="456" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="713" cy="456" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="820" cy="456" r="7"/>
+	</g>
+	<g id="628ecdc2-2f03-4301-95c6-63e2a184065e" data-name="Milton">
+		<line class="8318f5ef-7aaa-4474-9d58-652c468e0f76" x1="1116" y1="530" x2="40" y2="530"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="958" cy="530" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="878" cy="530" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="774" cy="530" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="678" cy="530" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="603" cy="530" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="521" cy="530" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="445" cy="530" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="369" cy="530" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="280" cy="530" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="195" cy="530" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="40" cy="530" r="7"/>
+	</g>
+	<g id="36ae5f04-d0d0-46a5-b9b1-f389dafbb05a" data-name="Kitchener">
+		<polyline class="75ee09b8-e8c8-452a-a7d6-48af5f225acc" points="1115.5 503.5 1003.5 503.5 761 261 8.5 261"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="904" cy="404" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="849.5" cy="349.5" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="777.5" cy="277.5" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="663" cy="261" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="569" cy="261" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="478" cy="261" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="383" cy="261" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="291" cy="261" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="211" cy="261" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="103" cy="261" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="8" cy="261" r="7"/>
+	</g>
+	<g id="5a7cb807-e975-4f97-948b-75bc1f1420cf" data-name="Barrie">
+		<polyline class="780e063a-5981-4989-b7e6-8e4df8057591" points="1115 490 1037 490 965 418 965 285 1014 236 1014 148 965.5 99.5 965.5 8"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="965" cy="397" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="965" cy="358" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="965" cy="319" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="965" cy="284" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="1015" cy="234" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="1015" cy="193" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="1013" cy="148" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="966" cy="99" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="965" cy="52" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="965" cy="8" r="7"/>
+	</g>
+	<g id="7a85d350-7b86-4ef2-bd38-3c26a188fb91" data-name="RichmondHull">
+		<polyline class="5021d6db-95c5-4d2b-8071-3dca818caa8d" points="1115 490 1161 490 1161 272"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="1161" cy="372" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="1161" cy="415" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="1161" cy="339" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="1161" cy="307" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="1161" cy="272" r="7"/>
+	</g>
+	<g id="0e76fa14-cc11-4ccd-a54c-107908351ffe" data-name="Stoufville">
+		<polyline class="87b4fb3b-09b8-47db-9759-6e3e74ccf7c8" points="1457 129 1282.89 352 1282.89 460.89 1226.78 517 1116 517"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="1283" cy="433" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="1283" cy="393" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="1283" cy="352" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="1314" cy="311" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="1371" cy="238" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="1343" cy="274" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="1399" cy="202" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="1428" cy="165" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="1456" cy="129" r="7"/>
+	</g>
+	<g id="a4396f4c-ff56-4425-8882-bd3ddef27077" data-name="LakeshoreEast">
+		<polyline class="d1bbe840-4428-44a6-91d7-d7ac72216948" points="1115.5 529.5 1233.5 529.5 1340 423 1879.5 423"/>
+		<path id="motionpath" class="d1bbe840-4428-44a6-91d7-d7ac72216948" d="M1575 423 1340 423 1233.5 529.5 1115.5 529.5"/>
+		<rect class="81126f3f-5e98-48a1-baee-c3587a1af9fa" x="1243.45" y="509.71" width="10.04" height="31.33" rx="4.68" ry="4.68" transform="translate(-14.83 1023.68) rotate(-45)"/>
+		<rect class="81126f3f-5e98-48a1-baee-c3587a1af9fa" x="1271.95" y="481.21" width="10.04" height="31.33" rx="4.68" ry="4.68" transform="translate(13.67 1035.49) rotate(-45)"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="1310" cy="453" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="1357" cy="423" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="1466" cy="423" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="1575" cy="423" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="1683" cy="423" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="1787" cy="423" r="7"/>
+		<circle class="81126f3f-5e98-48a1-baee-c3587a1af9fa" cx="1879" cy="423" r="7"/>
+		<circle id="user" cx="" cy="" r="7" />
+	</g>
+	<rect id="007b7ea3-5fac-4cb7-acd6-de7645cb0a2f" data-name="Union" class="ed5679fb-2583-43bc-89c9-c0fbecb1407e" x="1107" y="479" width="13" height="57" rx="6.5" ry="6.5"/>
+	<animateMotion dur="6s" repeatCount="1" xlink:href="#user">
+		<mpath xlink:href="#motionpath"/>
+	</animateMotion>
+</svg>
+</body>
+</html>

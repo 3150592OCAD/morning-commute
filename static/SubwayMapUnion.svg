@@ -1,0 +1,135 @@
+<svg id="7b7859e3-e4ee-4e3f-9b1f-0f9352f7d46b" viewBox="0 0 2655.87 1455.52" data-name="TTC-subway" xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<style>
+			.\32 2bcf7e9-2be1-4c17-a836-78c3323a032d,.\32 9109b2b-f2a7-463d-bebd-7e4656ddd94f,.\34 9806b36-e242-4298-9379-e3faac7a614b,.\36 f47c7c6-24a7-4331-a412-c05e1d563bf3,.f1db0771-4ed8-4fe4-a7e2-3b8451bc14a0 {
+				fill: none;
+				stroke-linecap: round;
+			}
+			.\32 2bcf7e9-2be1-4c17-a836-78c3323a032d,.\34 9806b36-e242-4298-9379-e3faac7a614b {
+				stroke: #ffcc29;
+			}
+			.\34 9806b36-e242-4298-9379-e3faac7a614b, .\32 2bcf7e9-2be1-4c17-a836-78c3323a032d,.\32 9109b2b-f2a7-463d-bebd-7e4656ddd94f,.\36 f47c7c6-24a7-4331-a412-c05e1d563bf3,.f1db0771-4ed8-4fe4-a7e2-3b8451bc14a0  {
+			stroke-linejoin: round;
+			stroke-width: 30.54px;
+			}
+			.\31 28f8c43-d00f-45b5-9edb-aabb2334e487,.c215f92a-41c1-400a-9bd1-270b09ad0d7b,.d1800e9e-cac7-4238-8811-24d6de079cc8,.d1e8cd53-36ef-4bf3-a8f9-72eec32f32f0 {
+				fill: #fefefe;
+			}
+			.\31 28f8c43-d00f-45b5-9edb-aabb2334e487,.c215f92a-41c1-400a-9bd1-270b09ad0d7b {
+				stroke: #373435;
+			}
+			.c215f92a-41c1-400a-9bd1-270b09ad0d7b {
+				stroke-width: 2.04px;
+			}
+			.d1800e9e-cac7-4238-8811-24d6de079cc8,.f1db0771-4ed8-4fe4-a7e2-3b8451bc14a0 {
+				stroke: #00a859;
+			}
+			.\31 28f8c43-d00f-45b5-9edb-aabb2334e487,.d1800e9e-cac7-4238-8811-24d6de079cc8{stroke-width:4.04px;}.\32 9109b2b-f2a7-463d-bebd-7e4656ddd94f {
+				stroke: #00afef;
+			}
+			.\36 f47c7c6-24a7-4331-a412-c05e1d563bf3 {
+				stroke: #a8518a;
+			}
+		</style>
+	</defs>
+	<title>SubwayMap</title>
+	<g id="4ba9250a-610d-4f52-92f7-031392ccb382" data-name="Line1">
+		<path class="49806b36-e242-4298-9379-e3faac7a614b" d="M1474.47 420 v709.39 l-1 677.43 h0 a38.07 38.07 0 0 1 -38.15 38.16 h-73.21 c-20.62 0-38.15 -17.53 -38.15 -38.16 h0 V1394.39" transform="translate(-183.58 -404.73)"/>
+		<path id="Union-Patrick" class="49806b36-e242-4298-9379-e3faac7a614b" d="M1398.17,1845h-36.09c-20.62,0-38.15-17.53-38.15-38.16h0V1619.17" transform="translate(-183.58 -404.73)"/>
+		<polyline class="22bcf7e9-2be1-4c17-a836-78c3323a032d" points="1140.35 989.66 1065.08 915.42 1065.08 764.88 915.57 615.37 840.3 315.32 765.03 164.78"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="765.03" cy="164.78" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="840.3" cy="315.32" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="858.86" cy="390.59" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="878.45" cy="464.83" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="897.01" cy="540.1" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="915.57" cy="615.37" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1065.08" cy="764.88" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1065.08" cy="840.15" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1290.89" cy="15.27" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1290.89" cy="90.54" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1290.89" cy="315.32" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1290.89" cy="464.83" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1290.89" cy="615.37" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1290.89" cy="690.64" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1290.89" cy="764.88" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1290.89" cy="840.15" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1290.89" cy="915.42" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1140.35" cy="1064.93" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1290.89" cy="1064.93" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1140.35" cy="1140.2" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1290.89" cy="1140.2" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1140.35" cy="1215.47" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1290.89" cy="1215.47" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1140.35" cy="1289.71" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1290.89" cy="1289.71" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1140.35" cy="1364.98" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1290.89" cy="1364.98" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1215.62" cy="1440.25" r="10.31"/>
+		<circle id="user" style="fill:#000" cx="" cy="" r="10.31" transform="translate(-183.58 -404.73)" />
+		<animateMotion dur="2s" repeatCount="1" xlink:href="#user">
+			<mpath xlink:href="#Union-Patrick"/>
+		</animateMotion>
+	</g>
+	<g id="84c9eb6c-9bd6-436c-97f9-49ddd1d717da" data-name="Line2">
+		<polyline class="f1db0771-4ed8-4fe4-a7e2-3b8451bc14a0" points="90.69 989.66 1069.2 989.66 2040.5 989.66"/>
+		<polyline class="f1db0771-4ed8-4fe4-a7e2-3b8451bc14a0" points="2040.5 989.66 2114.74 952.54 2265.28 764.88 2414.79 615.37"/>
+		<circle class="d1800e9e-cac7-4238-8811-24d6de079cc8" cx="2040.5" cy="989.66" r="13.4"/>
+		<line class="f1db0771-4ed8-4fe4-a7e2-3b8451bc14a0" x1="90.69" y1="989.66" x2="15.42" y2="1027.81"/>
+		<circle class="d1800e9e-cac7-4238-8811-24d6de079cc8" cx="15.42" cy="1027.81" r="13.4"/>
+		<circle class="d1800e9e-cac7-4238-8811-24d6de079cc8" cx="90.69" cy="989.66" r="13.4"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="990.84" cy="989.66" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="915.57" cy="989.66" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="990.84" cy="989.66" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="765.03" cy="989.66" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="840.3" cy="989.66" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="615.52" cy="989.66" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="690.79" cy="989.66" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="466.01" cy="989.66" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="540.25" cy="989.66" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="240.2" cy="989.66" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="315.47" cy="989.66" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="90.69" cy="989.66" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="165.96" cy="989.66" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="390.74" cy="989.66" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="15.42" cy="1027.81" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1889.96" cy="989.66" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1965.23" cy="989.66" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1815.72" cy="989.66" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1740.45" cy="989.66" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1589.91" cy="989.66" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1665.18" cy="989.66" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1515.67" cy="989.66" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1365.13" cy="989.66" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1440.4" cy="989.66" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="2040.5" cy="989.66" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="2265.28" cy="764.88" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1215.62" cy="989.66" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="2115.77" cy="952.54" r="10.31"/>
+	</g>
+	<g id="a1f2fc3f-fc03-4b3e-b9f4-fff6e5955075" data-name="Line3">
+		<polyline class="29109b2b-f2a7-463d-bebd-7e4656ddd94f" points="2414.79 615.37 2414.79 446.27 2414.79 278.2"/>
+		<polyline class="29109b2b-f2a7-463d-bebd-7e4656ddd94f" points="2414.79 277.17 2528.21 277.17 2640.6 277.17"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="2414.79" cy="464.83" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="2414.79" cy="315.32" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="2490.06" cy="278.2" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="2565.33" cy="278.2" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="2640.6" cy="278.2" r="10.31"/>
+	</g>
+	<g id="d4b7a2aa-2f08-4dcd-92a5-afcf82f222d6" data-name="Line4">
+		<polyline class="6f47c7c6-24a7-4331-a412-c05e1d563bf3" points="1889.96 164.78 1588.88 164.78 1289.86 164.78"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1515.67" cy="164.78" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1628.06" cy="164.78" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1740.45" cy="164.78" r="10.31"/>
+		<circle class="c215f92a-41c1-400a-9bd1-270b09ad0d7b" cx="1889.96" cy="164.78" r="10.31"/>
+	</g>
+	<g id="487940a6-1ac5-48fd-85c1-b599cee165f2" data-name="Joints">
+		<circle class="128f8c43-d00f-45b5-9edb-aabb2334e487" cx="1289.86" cy="164.78" r="13.4"/>
+		<rect class="128f8c43-d00f-45b5-9edb-aabb2334e487" x="1058.89" y="915.42" width="12" height="74.99"/>
+		<circle class="128f8c43-d00f-45b5-9edb-aabb2334e487" cx="1065.08" cy="915.42" r="13.4"/>
+		<circle class="128f8c43-d00f-45b5-9edb-aabb2334e487" cx="1065.08" cy="989.66" r="13.4"/>
+		<rect class="d1e8cd53-36ef-4bf3-a8f9-72eec32f32f0" x="1060.85" y="924.98" width="8.17" height="56.21"/>
+		<circle class="128f8c43-d00f-45b5-9edb-aabb2334e487" cx="1140.35" cy="989.66" r="13.4"/>
+		<circle class="128f8c43-d00f-45b5-9edb-aabb2334e487" cx="1289.86" cy="989.66" r="13.4"/>
+		<circle class="128f8c43-d00f-45b5-9edb-aabb2334e487" cx="2414.79" cy="615.37" r="13.4"/>
+	</g>
+</svg>

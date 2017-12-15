@@ -1,0 +1,65 @@
+/* import font */
+@import url('https://fonts.googleapis.com/css?family=Libre+Franklin:600,700,900');
+
+html, body {
+	/* reset css */
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	/* set globally used stuff */
+	background-color: #3F474C;
+	color: white;
+	font-family: 'Libre Franklin'
+}
+
+header {
+	/* position on screen */
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 2rem;
+	/* configure text */
+	font-size: 1.5rem;
+	background-color: #3F474C;
+	/* organize contents */
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+}
+
+h1 {
+	font-size: 4rem;
+	font-weight: 900;
+	text-align: center;
+	padding-top: 40vh;
+}
+
+h2 {
+	font-size: 3rem;
+	font-weight: 700;
+	text-align: center;
+}
+
+p {
+	font-size: 2rem;
+	font-weight: 600;
+	line-height: 3rem;
+	text-align: center;
+}
+
+button {
+	font-size: 1.5rem;
+	font-weight: 600;
+	/* display in container */
+	flex-grow: 1;
+	margin: 0 2vw;
+}
+
+#buttons {
+	/* position on screen */
+	margin: 10vh auto;
+	width: 60vw;
+	height: 10vh;
+	/* organize contents */
+	display: flex;
+}
